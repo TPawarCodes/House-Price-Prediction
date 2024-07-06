@@ -8,8 +8,8 @@ Follow these steps to set up and run the project:
 1. Download the Dataset
     Download the dataset from the repository.
     Save it to your Google Drive as follows:
-    Create a new folder and name it House Price Prediction Project.
-    In this folder, add the dataset file and name it House Price India.
+    Create a new folder and name it "House Price Prediction Project".
+    In this folder, add the dataset file and name it "House Price India".
    
 2. Open Google Colab
     Open Google Colab in your browser.
